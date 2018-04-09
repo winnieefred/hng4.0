@@ -1,0 +1,70 @@
+1:12:20 PM  [main] 	Initializing Control Panel
+1:12:20 PM  [main] 	Windows Version:  Pro  64-bit
+1:12:20 PM  [main] 	XAMPP Version: 7.0.13
+1:12:20 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+1:12:20 PM  [main] 	You are not running with administrator rights! This will work for
+1:12:20 PM  [main] 	most application stuff but whenever you do something with services
+1:12:20 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:12:20 PM  [main] 	about running this application with administrator rights!
+1:12:20 PM  [main] 	XAMPP Installation Directory: "c:\users\mainactivity\desktop\hotels.ng\new folder\new folder\"
+1:12:20 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+1:12:20 PM  [main] 	Checking for prerequisites
+1:12:22 PM  [main] 	All prerequisites found
+1:12:22 PM  [main] 	Initializing Modules
+1:12:22 PM  [main] 	Starting Check-Timer
+1:12:22 PM  [main] 	Control Panel Ready
+1:12:31 PM  [Apache] 	Attempting to start Apache app...
+1:12:31 PM  [Apache] 	Status change detected: running
+1:12:32 PM  [Apache] 	Status change detected: stopped
+1:12:32 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:12:32 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:12:32 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:12:32 PM  [Apache] 	Press the Logs button to view error logs and check
+1:12:32 PM  [Apache] 	the Windows Event Viewer for more clues
+1:12:32 PM  [Apache] 	If you need more help, copy and post this
+1:12:32 PM  [Apache] 	entire log window on the forums
+1:12:42 PM  [Apache] 	Attempting to start Apache app...
+1:12:43 PM  [Apache] 	Status change detected: running
+1:12:43 PM  [Apache] 	Attempting to stop Apache (PID: 5348)
+1:12:43 PM  [Apache] 	Status change detected: stopped
+1:12:46 PM  [Apache] 	Attempting to start Apache app...
+1:12:46 PM  [Apache] 	Status change detected: running
+1:12:48 PM  [Apache] 	Status change detected: stopped
+1:12:48 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:12:48 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:12:48 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:12:48 PM  [Apache] 	Press the Logs button to view error logs and check
+1:12:48 PM  [Apache] 	the Windows Event Viewer for more clues
+1:12:48 PM  [Apache] 	If you need more help, copy and post this
+1:12:48 PM  [Apache] 	entire log window on the forums
+1:12:57 PM  [Apache] 	Attempting to start Apache app...
+1:12:57 PM  [Apache] 	Status change detected: running
+1:12:59 PM  [Apache] 	Status change detected: stopped
+1:12:59 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:12:59 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:12:59 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:12:59 PM  [Apache] 	Press the Logs button to view error logs and check
+1:12:59 PM  [Apache] 	the Windows Event Viewer for more clues
+1:13:00 PM  [Apache] 	If you need more help, copy and post this
+1:13:00 PM  [Apache] 	entire log window on the forums
+1:25:22 PM  [main] 	Deinitializing Modules
+1:25:22 PM  [main] 	Deinitializing Control Panel
+
+1:14:00 PM  [main] 	Initializing Control Panel
+1:14:00 PM  [main] 	Windows Version:  Pro  64-bit
+1:14:00 PM  [main] 	XAMPP Version: 7.0.13
+1:14:00 PM  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+1:14:00 PM  [main] 	You are not running with administrator rights! This will work for
+1:14:00 PM  [main] 	most application stuff but whenever you do something with services
+1:14:00 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:14:00 PM  [main] 	about running this application with administrator rights!
+1:14:00 PM  [main] 	XAMPP Installation Directory: "c:\users\mainactivity\desktop\hotels.ng\new folder\new folder\"
+1:14:00 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+1:14:00 PM  [main] 	Checking for prerequisites
+1:14:00 PM  [main] 	All prerequisites found
+1:14:00 PM  [main] 	Initializing Modules
+1:14:00 PM  [main] 	Starting Check-Timer
+1:14:00 PM  [main] 	Control Panel Ready
+1:25:22 PM  [main] 	Deinitializing Modules
+1:25:22 PM  [main] 	Deinitializing Control Panel
+
